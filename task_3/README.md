@@ -30,4 +30,4 @@ Selector elemen: body, table, input. Selector class: .card, .layout, .fields. Se
 6. Persempit jendela: layout berubah menjadi satu kolom.
 
 ## Pengumpulan
-Unggah folder task_3 beserta isinya ke repository GitHub masing-masing. Laporan telah diberi nama sesuai format kelas-Nama-Nim-Tugas3-Pemweb.pdf. Paket ini belum diunggah ke GitHub.
+Folder task_3 berisi seluruh berkas tugas dan laporan. Laporan telah diberi nama sesuai format kelas-Nama-Nim-Tugas3-Pemweb.pdf.
